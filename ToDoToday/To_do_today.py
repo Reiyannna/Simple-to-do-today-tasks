@@ -1,3 +1,23 @@
+# tech stack:
+# 	python 
+# 	GUI
+
+# Purpose:
+# 	build a to-do-today only app
+# 	for maintaining a habit
+
+# features:
+# 	simple resizeable window panel
+# 	checklist bullet form
+# 	can add and remove tasks
+# 	adds duration for tasks (example one task is set for one week, one year)
+
+# future features:
+# 	tracks data and pattern
+# 	analyze users consistency
+# 	recommends solutions to maintain consistency
+
+
 import tkinter as tk
 from tkinter import messagebox
 
